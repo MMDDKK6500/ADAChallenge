@@ -1,3 +1,3 @@
 rm -rf ./app;
-swiftc main.swift structs.swift -o app;
+swiftc ADAChallenge/main.swift ADAChallenge/structs.swift -o app;
 ./app
